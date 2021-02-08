@@ -3,3 +3,7 @@
 ################################################################################
 
 /Library
+/Logs
+/obj/Debug
+/Temp
+/.vs/UnityInActionThirdPerson/v16
